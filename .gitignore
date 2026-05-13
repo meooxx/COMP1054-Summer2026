@@ -1,0 +1,15 @@
+
+# Node modules (if applicable)
+node_modules/
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+.Thumbs.db
